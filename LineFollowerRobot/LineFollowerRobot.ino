@@ -1,3 +1,9 @@
+/*
+ * Derived from Robot-Line-Follower by Ujjwal Nandanwar (2021)
+ * Modified by JustEvoo (2026)
+ * Licensed under the MIT License
+ */
+
 #define IR_SENSOR_RIGHT 11
 #define IR_SENSOR_LEFT 12
 #define MOTOR_SPEED 180
