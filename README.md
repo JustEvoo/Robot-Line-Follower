@@ -30,12 +30,16 @@ To build this robot, you will need the following core components:
 ## Installation and Setup
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/JustEvoo/Robot-Line-Follower.git](https://github.com/JustEvoo/Robot-Line-Follower.git)
+    git clone https://github.com/JustEvoo/Robot-Line-Follower.git
     ```
 2.  Open the source code file in your IDE.
 3.  Verify that the pin definitions in the code perfectly match your physical wiring setup.
 4.  Connect your microcontroller to your computer and upload the code.
 5.  Place the robot on a clear, high-contrast track (e.g., a thick black line on a white background) and turn on the power supply.
 
-## License
-This project is open-source. Feel free to modify and use it for your own robotics projects.
+## License & Acknowledgements
+
+This project is licensed under the [MIT License](LICENSE). 
+
+* **Original Work:** Derived from [Robot-Line-Follower]([https://github.com/ujjwann/...](https://github.com/un0038998/LineFollowerRobot.git)) by Ujjwal Nandanwar (Copyright (c) 2021).
+* **Modifications:** Maintained and modified by JustEvoo (Copyright (c) 2026).
